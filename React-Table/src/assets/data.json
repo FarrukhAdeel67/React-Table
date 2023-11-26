@@ -1,0 +1,246 @@
+{
+    "data":[
+        {
+          "id": 1,
+          "name": "farrukh",
+          "gender": "Male",
+          "salary": 40000
+        },
+        {
+          "id": 2,
+          "name": "farjad",
+          "gender": "Female",
+          "salary": 12000
+        },
+        {
+          "id": 3,
+          "name": "khan",
+          "gender": "Male",
+          "salary": 70000
+        },
+        {
+          "id": 4,
+          "name": "John",
+          "gender": "Male",
+          "salary": 60000
+        },
+        {
+          "id": 5,
+          "name": "Emily",
+          "gender": "Female",
+          "salary": 35000
+        },
+        {
+          "id": 6,
+          "name": "Alice",
+          "gender": "Female",
+          "salary": 55000
+        },
+        {
+          "id": 7,
+          "name": "Bob",
+          "gender": "Male",
+          "salary": 45000
+        },
+        {
+          "id": 8,
+          "name": "Grace",
+          "gender": "Female",
+          "salary": 48000
+        },
+        {
+          "id": 9,
+          "name": "Michael",
+          "gender": "Male",
+          "salary": 30000
+        },
+        {
+          "id": 10,
+          "name": "Sophia",
+          "gender": "Female",
+          "salary": 65000
+        },
+        {
+          "id": 11,
+          "name": "Liam",
+          "gender": "Male",
+          "salary": 42000
+        },
+        {
+          "id": 12,
+          "name": "Olivia",
+          "gender": "Female",
+          "salary": 52000
+        },
+        {
+          "id": 13,
+          "name": "Noah",
+          "gender": "Male",
+          "salary": 78000
+        },
+        {
+          "id": 14,
+          "name": "Ava",
+          "gender": "Female",
+          "salary": 38000
+        },
+        {
+          "id": 15,
+          "name": "William",
+          "gender": "Male",
+          "salary": 69000
+        },
+        {
+          "id": 16,
+          "name": "Isabella",
+          "gender": "Female",
+          "salary": 42000
+        },
+        {
+          "id": 17,
+          "name": "James",
+          "gender": "Male",
+          "salary": 50000
+        },
+        {
+          "id": 18,
+          "name": "Mia",
+          "gender": "Female",
+          "salary": 60000
+        },
+        {
+          "id": 19,
+          "name": "Benjamin",
+          "gender": "Male",
+          "salary": 73000
+        },
+        {
+          "id": 20,
+          "name": "Charlotte",
+          "gender": "Female",
+          "salary": 68000
+        },
+        {
+          "id": 21,
+          "name": "Ethan",
+          "gender": "Male",
+          "salary": 52000
+        },
+        {
+          "id": 22,
+          "name": "Amelia",
+          "gender": "Female",
+          "salary": 41000
+        },
+        {
+          "id": 23,
+          "name": "Alexander",
+          "gender": "Male",
+          "salary": 77000
+        },
+        {
+          "id": 24,
+          "name": "Harper",
+          "gender": "Female",
+          "salary": 43000
+        },
+        {
+          "id": 25,
+          "name": "Michael",
+          "gender": "Male",
+          "salary": 51000
+        },
+        {
+          "id": 26,
+          "name": "Evelyn",
+          "gender": "Female",
+          "salary": 59000
+        },
+        {
+          "id": 27,
+          "name": "Daniel",
+          "gender": "Male",
+          "salary": 68000
+        },
+        {
+          "id": 28,
+          "name": "Abigail",
+          "gender": "Female",
+          "salary": 47000
+        },
+        {
+          "id": 29,
+          "name": "Henry",
+          "gender": "Male",
+          "salary": 64000
+        },
+        {
+          "id": 30,
+          "name": "Ella",
+          "gender": "Female",
+          "salary": 59000
+        },
+        {
+          "id": 31,
+          "name": "Jackson",
+          "gender": "Male",
+          "salary": 72000
+        },
+        {
+          "id": 32,
+          "name": "Scarlett",
+          "gender": "Female",
+          "salary": 47000
+        },
+        {
+          "id": 33,
+          "name": "Sebastian",
+          "gender": "Male",
+          "salary": 54000
+        },
+        {
+          "id": 34,
+          "name": "Chloe",
+          "gender": "Female",
+          "salary": 62000
+        },
+        {
+          "id": 35,
+          "name": "Gabriel",
+          "gender": "Male",
+          "salary": 75000
+        },
+        {
+          "id": 36,
+          "name": "Avery",
+          "gender": "Female",
+          "salary": 49000
+        },
+        {
+          "id": 37,
+          "name": "Carter",
+          "gender": "Male",
+          "salary": 68000
+        },
+        {
+          "id": 38,
+          "name": "Lily",
+          "gender": "Female",
+          "salary": 54000
+        },
+        {
+          "id": 39,
+          "name": "Jayden",
+          "gender": "Male",
+          "salary": 71000
+        },
+        {
+          "id": 40,
+          "name": "Zoe",
+          "gender": "Female",
+          "salary": 60000
+        }
+      ]
+      
+      
+}

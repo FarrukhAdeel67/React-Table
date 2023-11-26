@@ -1,0 +1,56 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+ 
+}
+
+table{
+  width: 100%;
+  max-width: 80%;
+  margin: 0 auto;
+  border: 1px solid gray;
+  border-radius: 5%;
+  border-collapse: collapse;
+}
+table > thead {
+  background-color: black;
+  border-radius: 5px;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+table >tbody{
+  border-radius: 5px;
+  text-align: center;
+}
+table >tbody>tr:hover {
+  border-bottom: 2px;
+  background-color: gray;
+}
+.buttonBar{
+  margin-top:5px;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.buttonBar > button{
+    border: none;
+    background-color: gray;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.buttonBar > button:hover{
+ 
+  background-color: black;
+  color: gray;
+
+}
+.buttonBar > button:disabled{
+  cursor: not-allowed;
+  background-color: rgb(229, 229, 229);
+  color: rgba(0, 0, 0, 0.269);
+
+}
