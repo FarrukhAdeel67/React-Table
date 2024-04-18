@@ -15,7 +15,7 @@ table{
   border-collapse: collapse;
 }
 table > thead {
-  background-color: black;
+  background-color: gray;
   border-radius: 5px;
   color: white;
   margin: 0;
