@@ -20,7 +20,6 @@ const columns = [
   },
 ];
 const App = () => {
-  // const { getTableProps, getTableBodyProps, headerGroups, (rows: when not using the pagination), prepareRow } =
   const {
     getTableProps,
     getTableBodyProps,
